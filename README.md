@@ -3,8 +3,11 @@
 Answer:
 
 getElementById selects only one element using its id.
+
 getElementsByClassName selects multiple elements using class name.
+
 querySelector selects the first matching element.
+
 querySelectorAll selects all matching elements.
 
 
@@ -39,4 +42,5 @@ It is useful because it works for many elements and saves memory.
 
 Answer:
 preventDefault() stops the default behavior.
+
 stopPropagation() stops the event from moving to parent.
